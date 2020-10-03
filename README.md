@@ -1,6 +1,7 @@
 # Pacman-Project-1-Search
 
 Question 1: DFS
+
 #Dùng hàm problem.getStartState() để lấy vị trí ban đầu của Pacman
   start = problem.getStartState()
 #Tạo stack để lưu các state
